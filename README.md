@@ -157,7 +157,7 @@ $ yarn start
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Front-End**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
+#### **Front-End**  ([React](https://reactjs.org/))
 
 -   **[React Dom](https://github.com/facebook/react/tree/master/packages/react-dom)**
 -   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
@@ -168,14 +168,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[testing-library/react](https://github.com/testing-library/react-testing-library)**
 -   **[testing-library/user-event](https://github.com/testing-library/user-event)**
 
-#### **Back-End**  ([NodeJS](https://nodejs.org/en/)  +  [TypeScript](https://www.typescriptlang.org/))
+#### **Back-End**  ([NodeJS](https://nodejs.org/en/))
 
 -   **[Express](https://expressjs.com/)**
 -   **[CORS](https://expressjs.com/en/resources/middleware/cors.html)**
 -   **[KnexJS](http://knexjs.org/)**
 -   **[SQLite](https://github.com/mapbox/node-sqlite3)**
 
-#### **Mobile**  ([React Native](http://www.reactnative.com/)  +  [TypeScript](https://www.typescriptlang.org/))
+#### **Mobile**  ([React Native](http://www.reactnative.com/))
 
 -   **[Expo Google Fonts](https://github.com/expo/google-fonts)**
 -   **[React Native Masked View](https://github.com/react-native-masked-view/masked-view)**
